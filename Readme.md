@@ -1,5 +1,5 @@
 ### Chatbot Implementation
-## This Project is implemented based on deep learning library such as tflearn,numpy,tensorflow..etc
+
 
 
 ## Requirements
